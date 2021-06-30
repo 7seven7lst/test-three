@@ -96,7 +96,7 @@
   ],
   "author": "mrdoob",
   "license": "MIT",
-  "homepage": "http://7seven7lst.github.io/test-three",
+  "homepage": "https://7seven7lst.github.io/test-three",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/eslint-parser": "^7.14.4",
