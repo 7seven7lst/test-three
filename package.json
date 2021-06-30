@@ -96,10 +96,7 @@
   ],
   "author": "mrdoob",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mrdoob/three.js/issues"
-  },
-  "homepage": "https://threejs.org/",
+  "homepage": "http://7seven7lst.github.io/test-three",
   "devDependencies": {
     "@babel/core": "^7.14.3",
     "@babel/eslint-parser": "^7.14.4",
